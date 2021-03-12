@@ -55,7 +55,7 @@ app.post("/users", (request, response) => {
     });
   }
 
-  const user = {
+  const user ={
     id: uuidv4(),
     name,
     username,
