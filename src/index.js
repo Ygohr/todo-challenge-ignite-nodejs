@@ -61,7 +61,6 @@ app.post("/users", (request, response) => {
     username,
     todos: [],
   };
-
   users.push(user);
 
   return response.status(201).json(user);
