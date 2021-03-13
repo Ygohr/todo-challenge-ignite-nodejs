@@ -36,6 +36,13 @@ npm install
 yarn dev
 ```
 
+## :floppy_disk: Usando a Aplicação
+Para realização de **requisições** na aplicação, deve ser utilizado o **Insomnia** ou **Postman**, importando o [arquivo](insomnia_requests) de requisições já existente neste diretório.
+Atentar-se aos parâmetros necessários no **Header**.
+
 ## :syringe: Evidência de Testes
 Nesta aplicação, são contemplados **Testes Unitários**, visando garantir o correto funcionamento das funcionalidades e manter a aplicação de acordo com os requisitos. <br/>
 ![](assets/test_evidence.png)
+
+
+- **Desenvolvido** **por** [**Ygohr**](https://www.linkedin.com/in/ygohr-medeiros-28451b14a/) 🤖
