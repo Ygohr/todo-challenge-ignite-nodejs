@@ -3,7 +3,7 @@
 <br>
 
 ## :pushpin: Sobre o Desafio
-Este desafio tem como objetivo o desenvolvimento de uma aplicação gerenciadora de Tarefas (_To-dos_), associadas a um usuário. 
+Este desafio tem como objetivo o desenvolvimento de uma aplicação gerenciadora de **Tarefas** (_To-dos_), associadas a um **usuário**. 
 As funcionalidades presentes são:
 - Criar uma nova tarefa
 - Listar todas as tarefas
