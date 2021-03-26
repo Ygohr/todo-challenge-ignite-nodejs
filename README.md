@@ -11,10 +11,10 @@ As funcionalidades presentes são:
 - Marcar uma tarefa como feita
 - Excluir uma tarefa
 
-O _template_ de arquivos utilizados neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-conceitos-do-nodejs)
+O _template_ de arquivos utilizado neste projeto pode ser acessado em: [**template.**](https://github.com/rocketseat-education/ignite-template-conceitos-do-nodejs)
 
 ## 📋 Requisitos e Regras de Negócio
-O documento de referência de Requisitos e Regras de Negócio pode acessado através deste [**link.**](https://www.notion.so/Requisitos-e-Regras-de-Neg-cio-TodosAPI-639401aa8c6f4b48b5aa1db7c53ab107)
+O documento de referência de Requisitos e Regras de Negócio pode ser acessado através deste [**link.**](https://www.notion.so/Requisitos-e-Regras-de-Neg-cio-TodosAPI-639401aa8c6f4b48b5aa1db7c53ab107)
 
 ## 💻 Instalação, Dependências e Executando o Projeto
 **1.** Clone este repositório 
