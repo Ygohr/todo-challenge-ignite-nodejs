@@ -2,7 +2,7 @@
 ![](assets/capa_ignite.png)
 <br>
 
-## :pushpin: Sobre o Desafio
+## :pushpin: Sobre
 Este desafio tem como objetivo o desenvolvimento de uma aplicação gerenciadora de **Tarefas** (_To-dos_), associadas a um **usuário**. 
 As funcionalidades presentes são:
 - Criar uma nova tarefa
