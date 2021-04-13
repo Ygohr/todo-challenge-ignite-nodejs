@@ -19,7 +19,7 @@ O documento de referência de Requisitos e Regras de Negócio pode ser acessado 
 ## 💻 Instalação, Dependências e Executando o Projeto
 **1.** Clone este repositório 
 ```
-git clone https://github.com/Ygohr/todo-challenge-ignite-nodejs
+git clone git@github.com:Ygohr/todo-challenge-ignite-nodejs.git
 ``` 
 **2.** Vá até o diretório raiz do projeto
 ```
